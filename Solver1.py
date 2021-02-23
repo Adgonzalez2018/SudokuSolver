@@ -105,5 +105,3 @@ elif userInput == 'no':
     print("__________________________\n")
     print_board(board)
     exit()
-
-userInput = input()
