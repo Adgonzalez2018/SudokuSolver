@@ -1,2 +1,6 @@
 # SudokuSolver
-Solves Sudoku Puzzles
+Solves Sudoku Puzzles, and uses a backtracking algorithm
+
+# Dependencies
+None
+
